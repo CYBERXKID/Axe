@@ -92,7 +92,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Gv3CdQTRQ3Z0UcArqhD3IB )
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBERXKIDR&repo=CYBER-kidd&theme=nightowl)](https://github.com/CYBERXKID/Axe)
