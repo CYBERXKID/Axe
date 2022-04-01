@@ -1,6 +1,6 @@
-FROM fusuf/whatsasena:latest
+ FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/CYBERXKID/Axe/AMRU-SER /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/CYBERXKID/Axe /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
