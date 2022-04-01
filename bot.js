@@ -12,7 +12,7 @@ const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./AMRU/');
+const {Message, StringSession, Image, Video} = require('./CYBER/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -114,13 +114,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'amruser' || config.AFPLK == 'amrus' || config.AFPLK == 'vava' || config.AFPLK == 'Amruser') {
+        if (config.AFPLK == 'amruser' || config.AFPLK == 'amrus' || config.AFPLK == 'vava' || config.AFPLK == 'Cyberxkidd') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'amruser' || config.AFPLK !== 'amrus' || config.AFPLK !== 'vava' || config.AFPLK !== 'Amruser') {
+         else if (config.AFPLK !== 'amruser' || config.AFPLK !== 'amrus' || config.AFPLK !== 'vava' || config.AFPLK !== 'Cyberxkidd') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
@@ -306,8 +306,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ AMRU SER ~______~*' +
-                                    '\n*🌀 Follow this page other wise chance to get erorr: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ CYBER KIDD ~______~*' +
+                                    '\n*🌀 Follow this page other wise chance to get erorr: https://chat.whatsapp.com/Gv3CdQTRQ3Z0UcArqhD3IB*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
