@@ -8,10 +8,10 @@
  </a>
 </p>
 
-#### TOTAL REPO VIEWS📍
+#### 💋TOTAL REPO VIEWS💋
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
   
-### TOTAL WEBSITE VISIT
+### 💻TOTAL WEBSITE VISIT💻
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwhitedevil-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://whitedevil-bot.yolasite.com)
 
 
@@ -40,11 +40,11 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
 <div align="center"> 
 
 
-## Click Instagram logo to follow this page👄
+## 👄Click Instagram logo to follow this page👄
 
  [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
 
-  ### Simple Method
+  ### 👁Simple Method👁
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Axe.git)
 
@@ -53,7 +53,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
   
-### The Hard Method
+### 🤒The Hard Method🤒
 ```js
 GET QR
 $ apt install git
