@@ -59,7 +59,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/CYBERXKID/Axe
-$ cd CYBER-kid
+$ cd CYBERXKID
 
 $ npm install @adiwajshing/baileys
 $ npm install chalk
