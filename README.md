@@ -59,7 +59,7 @@ Install their own plugins to the original software and use as they please.
 Usage is entirely the responsibility of the user. The operating system is not responsible.
 THANK YOU!🙏
 
-### 🤒The Hard Method🤒
+### 🤒THE HARD METHOD🤒
 ```js
 GET QR
 $ apt install git
@@ -105,7 +105,7 @@ $ node julie.js
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBERXKIDR&repo=CYBER-kidd&theme=nightowl)](https://github.com/CYBERXKID/Axe)
   </div>
     
-### ⚠ Warning ⚠
+### ⚠ WARNING ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
@@ -113,7 +113,7 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 ```
 **[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27638196983?text=Can%20you%20help%20bro)**
 
-## 🕵Developers🕵
+## 🕵DEVELOPERS🕵
   <div align="center">
     
   [![CYBERXKID](https://github.com/CYBERXKID.png?size=100)](https://github.com/CYBERXKID) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
