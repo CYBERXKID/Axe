@@ -69,8 +69,7 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/CYBERXKID/Axe
-$ cd CYBER-
-XKID
+$ cd CYBERXKID
 $ npm i
 $ node julie.js
 ```
