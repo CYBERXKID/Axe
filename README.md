@@ -36,15 +36,11 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
     <br> 
 </p>
 
-## 🤖Setup🤖
+## 🤖SETUP🤖
 <div align="center"> 
 
 
-## 👄Click Instagram logo to follow this page👄
-
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
-
-  ### 👁Simple Method👁
+  ### 👁SIMPLE METHOD👁
   💋DEPLOY NEW ALEXA QUEEN💋
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Axe.git)
 
@@ -99,8 +95,8 @@ $ node julie.js
 <a href="https://github.com/CYBERXKID/Axe/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/CYBERXKID/Axe?labeAMRUers&color=blue&style=flat-square"></a>
 </p>
 
-## 💋 Guide💋
-Click WA logo to Join Support Group 👇
+## 💋 GUIDE💋
+👇ClICK WA LOGO TO JOIN SUPPORT GROUP 👇
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Gv3CdQTRQ3Z0UcArqhD3IB )
