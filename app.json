@@ -1,7 +1,7 @@
 {
     "name": "ALEXA QUEEN ",
     "description": "ALEXA QUEEN is the Modified Version of WhatsAsena, Made By @CYBERXKID with Baileys.",
-    "logo": "https://i.imgur.com/CtaexU3.jpeg",
+    "logo": "https://te.legra.ph/file/4aa16871f1c6644196856.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/CYBERXKID/Axe",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
@@ -38,7 +38,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.imgur.com/snKWQib.jpg"
+            "value": "https://te.legra.ph/file/4aa16871f1c6644196856.jpg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
@@ -205,7 +205,7 @@
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 27 for africa ) Also don't enter space & + on the number ( example : 27996132xxxx for africa ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "wa.me/+27 63 819 6983"
+            "value": "wa.me/+27638196983"
         },
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 27 for africa ) Also don't enter space & + on the number ( example : 27996132xxxx for africa ). ( This number will be shown on some commands )",
