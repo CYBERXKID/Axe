@@ -20,7 +20,7 @@
 <img src=https://te.legra.ph/file/9c16fe20fa5804b4f82ec.jpg>
 </p>
 
-<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
+<img src=https://ibb.co/bBYNvC4>
 </p>
 
 
@@ -109,7 +109,7 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/CYBERXKID) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
+  [![CYBERXKID](https://github.com/CYBERXKID.png?size=100)](https://github.com/CYBERXKID) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
 ----|----|----|----
 [CYBERXKID](https://github.com/CYBERXKID) | [Ajx-Abu](https://github.com/Ajx-Abu)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
