@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<img src=https://te.legra.ph/file/8f3e97d9a195167ab2.jpg >
+<img src=https://te.legra.ph/file/d67d3a921e34cdfe9d575.jpg >
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+CYBERXKID+WA+BOT+REPO;CREATED+BY+CYBER+KID;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
