@@ -45,23 +45,23 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
  [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
 
   ### 👁Simple Method👁
-  Deploy New Alexa Queen Bot
+  💋DEPLOY NEW ALEXA QUEEN BOT💋
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Axe.git)
 
 
 
-  
+  📱SCAN ALEXA QUEEN QR CODE📱
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
   
 
 
-Alexa Queen bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+💻Alexa Queen bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
 Install their own plugins to the original software and use as they please.
 Usage is entirely the responsibility of the user. The operating system is not responsible.
-THANK YOU!
+THANK YOU!🙏
 
 ### 🤒The Hard Method🤒
 ```js
