@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
 <div align="center"> 
 
 
-## Click Instagram logo to follow this page👇
+## Click Instagram logo to follow this page👄
 
  [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
 
@@ -59,7 +59,8 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/CYBERXKID/Axe
-$ cd CYBER-ser
+$ cd CYBER-kid
+
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -78,7 +79,7 @@ $ node julie.js
   <p align="center">
   <a href="https://github.com/CYBERXKID/Axe">
     
-<a href="https://github.com/AMRUSIRmHere's an 🅰🅿🅿 to type 𝓬𝓸𝓸𝓵 f͜o͜n͜t͜s͜ - https://fonts.easylife.studio/followers">
+<a href="https://github.com/CYBERXKIDmHere's an 🅰🅿🅿 to type 𝓬𝓸𝓸𝓵 f͜o͜n͜t͜s͜ - https://fonts.easylife.studio/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/CYBERXKID/followers"
@@ -88,7 +89,7 @@ $ node julie.js
 <a href="https://github.com/CYBERXKID/Axe/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/CYBERXKID/Axe?labeAMRUers&color=blue&style=flat-square"></a>
 </p>
 
-## 📢 Guide
+## 💋 Guide💋
 Click WA logo to Join Support Group 👇
     <br>
 <br>
