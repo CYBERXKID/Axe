@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
     <br> 
 </p>
 
-## Setup
+## 🤖Setup🤖
 <div align="center"> 
 
 
@@ -105,9 +105,9 @@ Click WA logo to Join Support Group 👇
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 
 ```
-**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/+27 63 819 6983?text=Can%20you%20help%20bro)**
 
-## Developers
+## 🕵Developers🕵
   <div align="center">
     
   [![CYBERXKID](https://github.com/CYBERXKID.png?size=100)](https://github.com/CYBERXKID) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
