@@ -45,12 +45,12 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
  [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
 
   ### 👁Simple Method👁
-  💋DEPLOY NEW ALEXA QUEEN BOT💋
+  💋DEPLOY NEW ALEXA QUEEN💋
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Axe.git)
 
 
 
-  📱SCAN ALEXA QUEEN QR CODE📱
+  📱SCAN ALEXA QUEEN QR📱
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
   
 
