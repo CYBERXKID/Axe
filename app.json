@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "PASSWORD SMAL leter. amrus ENNUTHABE ADIKKANAM ILLEL ERROR VARUM .",
+            "description": "PASSWORD SMAL leter. cyber ENNUTHABE ADIKKANAM ILLEL ERROR VARUM .",
             "required": true
         },
         "LANGUAGE": {
@@ -110,7 +110,7 @@
             "value": "^[.!;]"
         },
         "CHAT_BOT": {
-            "description": "Turn your account into a chatbot! .amruser on/off",
+            "description": "Turn your account into a chatbot! .alexa on/off",
             "required": true,
             "value": "false"
         },
@@ -122,8 +122,8 @@
         "AUDIO_CAPTION": {
             "description": " Set true if you don't want to see error log.",
             "required": false,
-            "value": "[CYBER KIDD]\n INSTA: KING_CYBER\n THIS BOT OWNER CYBER KIDD\n BOT CREATER CYBER KIDD🍁\n🍁🍁🍁🍁🍁"
-        },
+            "value": "[CYBER KIDD]\n INSTA: KING_CYBER\n ALLOW ME TO INTRODUCING MY SELF I AM ALEXA QUEEN A WHATSAPP USER BOT CREATED BY CYBER X KID THE FIRST STRONGEST QUEEN BOT OF 2022 AND IM HERE AWAIT FOR YOUR COMMANDS\n BOT CREATER CYBER KIDD🍁\n🍁🍁🍁🍁🍁"
+      
         "SEND_READ": {
             "description": "Write true if you want to throw seen.",
             "required": true,
@@ -223,7 +223,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands  {pp}```"
+            "value": "\n ```💋Hi  Alexa Queen is Alive now💋 Created by Cyber Kidd !!!```\n\n```Type``` *.help* ```for commands  {pp}```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
