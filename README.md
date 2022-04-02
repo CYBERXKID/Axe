@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBER KID</a> to make 
  [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
 
   ### 👁Simple Method👁
-  
+  Deploy New Alexa Queen Bot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Axe.git)
 
 
