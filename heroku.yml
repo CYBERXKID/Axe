@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /CYBER/Dockerfile
+      worker: /AMRU/Dockerfile
 run:
    worker: npm start
