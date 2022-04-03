@@ -18,8 +18,8 @@
         },
          "YT_PASSWORD": {
             "description": "PASSWORD SMAL leter. cyber ENNUTHABE ADIKKANAM ILLEL ERROR VARUM .",
-            "required": false
-            " value": "xvyz2kqe"
+            "required": true
+
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
