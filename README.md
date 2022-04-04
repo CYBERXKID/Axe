@@ -85,7 +85,7 @@ $ node julie.js
   <p align="center">
   <a href="https://github.com/CYBERXKID/Axe">
     
-<a href="https://github.com/CYBERXKIDmHere's an 🅰🅿🅿 to type 𝓬𝓸𝓸𝓵 f͜o͜n͜t͜s͜ - https://fonts.easylife.studio/followers">
+<a href="https://github.com/CYBERXKID/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/CYBERXKID/followers"
