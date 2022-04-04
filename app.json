@@ -86,7 +86,7 @@
             "value": "91"
         },
         "TAG_REPLY": {
-            "description": "Enter jid of your number so that you get a audio reply when metioned example - 27xxxxxxxxxx@s.whatsapp.net - for Africa",
+            "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
             "required": false          
         },
         "BGM_DURATION": {
@@ -203,14 +203,14 @@
             "value": "CYBER"
         },
         "OWNER_NUMBER": {
-            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 27 for africa ) Also don't enter space & + on the number ( example : 27996132xxxx for africa ). ( This number will be shown on some commands )",
+            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for india ) Also don't enter space & + on the number ( example : 91996132xxxx for india ). ( This number will be shown on some commands )",
             "required": false,
             "value": "wa.me/+27638196983"
         },
         "NUMBER": {
-            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 27 for africa ) Also don't enter space & + on the number ( example : 27996132xxxx for africa ). ( This number will be shown on some commands )",
+            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for india ) Also don't enter space & + on the number ( example : 91996132xxxx for india ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "wa.me/+27 63 819 6983"
+            "value": "wa.me/+27638196983"
         },
         "DEPLOYER": {
             "description": "enter your name here",
